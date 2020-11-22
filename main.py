@@ -10,6 +10,10 @@ if __name__ == '__main__':
     print("2) Use the binary search functions given in the text (recursive and iterative). Generate a random, "
           "ordered list of integers and do a benchmark analysis for each one. What are your results? Can you explain "
           "them?")
+    """
+    BRAINSTORMING: make 2 methods for binary search, one iterative and one recursive. then make a 'binary_race' method 
+                   that times and compares the two.   
+    """
 
     print("")
     print("3) Implement the binary search using recursion without the slice operator. Recall that you will need to "
